@@ -1,7 +1,7 @@
 ### Hi Stranger 👽
 
 - 👩‍💻 Cursando Ciência de Compuação na Uninove;
-- 🔭 Estagiando na  com Análise de dados;
+- 🔭 Estagiando na  com Engenharia de dados;
 - 🌱 Estudando Python, Pyspark e Django;
 - 📫 Fale comigo através do e-mail: caduti0201@gmail.com;
 - Possuo alguns estudos básicos em 3D: https://www.artstation.com/janjicrow
