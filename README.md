@@ -1,6 +1,6 @@
 ### Hi Stranger 👽
 
-- 👩‍💻 Cursando Ciência de Compuação na Uninove;
+- 👩‍💻 Formado em Ciência de Compuação pela Uninove;
 - 🔭 A procura da minha primeira oportunidade como desenvolvedor Java;
 - 🌱 Estudando Java, Spring Boot e REST;
 - 📫 Fale comigo através do e-mail: caduti0201@gmail.com;
