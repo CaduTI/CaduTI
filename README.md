@@ -1,6 +1,8 @@
 ### Hi Stranger 👽
 
 - 👩‍💻 Formado em Ciência de Compuação pela Uninove;
+- Engenheiro de dados;
+- 🌱 Python, Spark, SQL, Excel
 - 🔭 A procura da minha primeira oportunidade como desenvolvedor Java;
 - 🌱 Estudando Java, Spring Boot e REST;
 - 📫 Fale comigo através do e-mail: caduti0201@gmail.com;
